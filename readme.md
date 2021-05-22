@@ -26,7 +26,7 @@ f(x) = 2x^2 + 3
    - Time-stamp
    - Random Numbers
 
-- Avoid side as possible
+- Avoid side effects as possible
 
 6. reduce the surface area of side effect
 
@@ -67,5 +67,9 @@ function sum(x, y) {
 // enary
 function multipleParameter(x, y, z, a, ...args) {}
 ```
+
+3. Higher Order function
+
+-
 
 ---

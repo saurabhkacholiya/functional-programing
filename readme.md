@@ -8,7 +8,7 @@ procedure is collection of thing's
 f(x) = 2x^2 + 3
 ```
 
-## `Read ability is most import`
+### `Readability is most import`
 
 1. function has to take input and return output
 

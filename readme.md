@@ -1,5 +1,7 @@
 # `Functional Programming`
 
+[Link to slides](http://static.frontendmasters.com/resources/2019-05-06-functional-light-v3/functional-light-v3.pdf)
+
 ## `Function-purity`
 
 procedure is collection of thing's
@@ -77,4 +79,50 @@ function multipleParameter(x, y, z, a, ...args) {}
 
 ## `Point Free`
 
+1. Equational Reasoning
+
+```javascript
+// this code to
+getPerson(function onPerson(person) {
+  return renderPerson(person);
+});
+
+// this point free style
+getPerson(renderPerson);
+```
+
+2. Using point free to move from Declarative vs Imperative
+
+```js
+function isOdd(v) {
+  return v % 2 === 1;
+}
+
+function isEven(v) {
+  return !isOdd(v);
+}
+```
+
+**_Converting above code to point free style_**
+
+```js
+function not(fn) {
+  return function negated(...args) {
+    return !fn(...args);
+  };
+}
+
+function isOdd(v) {
+  return v % 2 === 1;
+}
+
+const isEven = not(isOdd);
+
+isEvent(4); // true
+```
+
 ---
+
+## `Closure`
+
+### `Closure is when a function remembers the variables around it even when that function is executed elsewhere`

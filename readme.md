@@ -69,7 +69,12 @@ function multipleParameter(x, y, z, a, ...args) {}
 ```
 
 3. Higher Order function
+   - Make adapter function by creating common shape
+   - Read ramda Library.
+   - spread operator
 
--
+---
+
+## `Point Free`
 
 ---

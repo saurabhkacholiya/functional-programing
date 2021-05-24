@@ -125,6 +125,6 @@ isEvent(4); // true
 
 ## `Closure`
 
-## `Closure is when a function remembers the variables around it even when that function is executed elsewhere`
+### `Closure is when a function remembers the variables around it even when that function is executed elsewhere`
 
 > closure solution 3rd video

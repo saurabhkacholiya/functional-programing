@@ -1,6 +1,6 @@
 # `Functional Programming`
 
-[Link to slides](http://static.frontendmasters.com/resources/2019-05-06-functional-light-v3/functional-light-v3.pdf)
+<a href="http://static.frontendmasters.com/resources/2019-05-06-functional-light-v3/functional-light-v3.pdf" target="_blank">Link to slides</a>
 
 ## `Function-purity`
 

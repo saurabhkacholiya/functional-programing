@@ -220,3 +220,7 @@ function add(x, y) {
 
 // [1,3,5,7,9]
 ```
+
+## `Composition`
+
+### `Function composition is taking the return value of one function and passing it as an argument to another function`

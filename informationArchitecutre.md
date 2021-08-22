@@ -1,4 +1,11 @@
-What is IA?
+# `FOUR CORE COMPONENT OF IA`
+
+- `Organization Schemes and Structures`: How information is categorized and structured
+- `Labeling System` : How information is represented
+- `Navigation System`: How users browse or move through information.
+- `Search System`: How users look for information.
+
+## `What is IA?`
 
 IA mean consciously organizing the content and flow of a website app or system.
 
@@ -14,13 +21,6 @@ IA then is based on:
 - what and how much they expect to find
 - how they expect to be able to move through it
 - how they expect to be able to `view,enter,download,manipulate or interact` with it.
-
-## `FOUR CORE COMPONENT OF IA`
-
-- `Organization Schemes and Structures`: How information is categorized and structured
-- `Labeling System` : How information is represented
-- `Navigation System`: How users browse or move through information.
-- `Search System`: How users look for information.
 
 IA vs .site map?
 
@@ -52,7 +52,7 @@ the content you or your client chooses has to be three things:
   - what's in it for me?
   - is it all about me or about them?
 
-# identifying content requirements
+## `identifying content requirements`
 
 #question_to_ask_about_content and #Don't_have_open_assumption
 
@@ -69,7 +69,7 @@ the content you or your client chooses has to be three things:
 - how will we display this? animation?
 - Are there `from factor` restriction? what different content to show on different screen size or which content we should omit on different screen?
 
-Identifying content workflows
+## `Identifying content workflows`
 
 1. `talk to content stakeholders.`
 
@@ -124,3 +124,26 @@ content
 `Cognitive`
 
 - what assumptions will they make based on what they read and interact with?
+
+## `Creating + Prioritizing IA`
+
+- file naming & taxonomy
+- content labeling & taxonomy
+- `taxonomy means classification`
+
+Content labeling
+
+- clear descriptive words and phrases
+- ## `strive for simplicity accuracy and clarity while labeling`
+- don't overlap categories
+- make sure your organizational scheme make sense to user `eg. No model number or sportan`.
+- ## `Don't rely on your own opinions.`
+
+## `file naming`
+
+![fileNameExample]('../fileNameExample.png')
+
+- naming
+- modeling
+- ## `File name should match IA category labels`
+-

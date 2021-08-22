@@ -7,10 +7,8 @@
 
 ## `What is IA?`
 
-IA mean consciously organizing the content and flow of a website app or system.
-
-that organization should me meaningful which means its based on what you know about the
-people using the site.
+`IA mean consciously organizing the content and flow of a website app or system.`
+`that organization should me meaningful which means its based on what you know about the people using the site.`
 
 In particular what their preconceptions and expectations are.
 
@@ -34,6 +32,8 @@ site map is visual representation that illustrates this strategy.
 the site map shows site navigation and main content areas along with the relationships between pages on the site.
 
 ## `Content Strategy`
+
+<img src="./contentExample.png" alt="content example">
 
 - `content should be leveraged strategically to serve a goal`. To deliver a specific message to end users to make them feel a certain way.
 
@@ -70,6 +70,8 @@ the content you or your client chooses has to be three things:
 - Are there `from factor` restriction? what different content to show on different screen size or which content we should omit on different screen?
 
 ## `Identifying content workflows`
+
+<img alt="work flow example" src="./workFlowExample.png">
 
 1. `talk to content stakeholders.`
 
@@ -145,5 +147,5 @@ Content labeling
 
 - naming
 - modeling
-- ## `File name should match IA category labels`
+- ### `File name should match IA category labels`
 -

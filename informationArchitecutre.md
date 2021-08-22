@@ -1,6 +1,6 @@
-# `FOUR CORE COMPONENT OF IA`
+# `!!! Don't make me thing or else i will walkaway to other website !!!`
 
-# `Rule 1 :- !!! Don't make me thing or else user will walkaway`
+## `FOUR CORE COMPONENT OF IA`
 
 - `Organization Schemes and Structures`: How information is categorized and structured
 - `Labeling System` : How information is represented
@@ -260,7 +260,7 @@ Grouping and classifying content
   - Second navigation:
     - that doesn't serve the primary goal of the website but is still of interest to the user.
 
-  <img alt="primary nav link" src="./primaryNavExample.png">
+  <img alt="primary nav link" src="./primaryNavExample.png" height="400px" width="400px">
 
 - `Global and local navigation`
 - `Navigation Design for different user type`
@@ -279,3 +279,41 @@ Grouping and classifying content
 - how did i get here?
 - what can i do here?
 - where can i go from here?
+
+- Determining key navigation path
+
+1. Identify valuable outcomes.
+   1. What do users want to happen and what do you want to happen? what outcome deliver the most value to both the user and the business??
+   2. How many valuable outcome exist, and how important is each? is users only follows one which should it be?
+2. identify direct path to value.
+   1. does navigation provide visible clear answers to `"how do i" questions?`
+   2. `don't assume with to simple claim show them with image of text`
+   3. make paths to value obvious and clear
+      1. what will happen if i take a step
+3. Expose those paths in UI design.
+
+<img alt="bad path image" src="./badPathExample.png" height="400px" width="400px"/>
+
+<!-- ### `summary`
+
+#### `content you or your client chooses has to have three things`
+
+- relevant
+- appropriate
+- useful
+
+#### `Identify content and socialize IA early`
+
+#### `Consider context of use`
+
+- external factors
+
+IA must be user-centered you have to speak there language
+
+file name should match IA category labels.
+
+people start with a task not a document.
+action -> outcome -> desire those thing count most.
+
+make the path to value
+obvious and clear in your navigation -->

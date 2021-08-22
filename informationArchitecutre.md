@@ -221,4 +221,35 @@ Grouping and classifying content
 #### `IA is really nothing more than an outline so any basic word processing software is fine.`
 
 - Microsoft words
--
+- visio, omniGraffle or XMind
+
+#### `Socializing your IA: validating Decision and getting Approval`
+
+- **tree testing**
+  - similar to card sorting where users are asked to sort a pile of **content cards** into **predefined category "buckets"**
+  - The idea is that if there's **agreement** about which card go in which buckets, then those buckets(categories) should **perform well** in the IA
+- `Problem :- People start with a task not a document!!`
+
+- Measure IA effectiveness against what they're trying to accomplish instead of what content you have available.
+
+1. model the site structure on index cards.
+   1. Create an index for **each level of categorization**
+   2. **Top categories** are main limbs of the tree and the **subcategories** and **items** are the branches.
+   3. the first card for example would contain **7 categories**
+2. give participants `"find it"` scenarios
+   1. for example: **your 9-year-old son asks for a new belt with a cowboy buckle** and show them the top-level category index card.
+   2. ask them to **navigate** through the index cards until they find what they're looking for.
+   3. the participant chooses a topic from that card, leading to **another card** with subtopics.
+3. you record activity during the session.
+   1. path the user take
+   2. whether or not the participant **found the correct topic**
+   3. where the participant **hesitated** or **backtracked**
+
+<!-- <div>
+  <img alt="tree top level card" src="./treeTopCardExample.png">
+  <img alt="tree sub level card" src="./treeTesting.png">
+<div> -->
+
+|           Main Card           |        Sub Card        |
+| :---------------------------: | :--------------------: |
+| ![](./treeTopCardExample.png) | ![](./treeTesting.png) |

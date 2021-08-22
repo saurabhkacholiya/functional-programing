@@ -1,5 +1,7 @@
 # `FOUR CORE COMPONENT OF IA`
 
+# `Rule 1 :- !!! Don't make me thing or else user will walkaway`
+
 - `Organization Schemes and Structures`: How information is categorized and structured
 - `Labeling System` : How information is represented
 - `Navigation System`: How users browse or move through information.
@@ -245,11 +247,35 @@ Grouping and classifying content
    2. whether or not the participant **found the correct topic**
    3. where the participant **hesitated** or **backtracked**
 
-<!-- <div>
-  <img alt="tree top level card" src="./treeTopCardExample.png">
-  <img alt="tree sub level card" src="./treeTesting.png">
-<div> -->
+|                      Main Card                       |                   Sub Card                   |
+| :--------------------------------------------------: | :------------------------------------------: |
+| <img alt="main card" src="./treeTopCardExample.png"> | <img alt="sub card" src="./treeTesting.png"> |
 
-|           Main Card           |        Sub Card        |
-| :---------------------------: | :--------------------: |
-| ![](./treeTopCardExample.png) | ![](./treeTesting.png) |
+#### `Navigation Design`
+
+- `Primary and secondary navigation`
+
+  - Primary navigation:
+    - content that most users are interested in these are the things they came for.
+  - Second navigation:
+    - that doesn't serve the primary goal of the website but is still of interest to the user.
+
+  <img alt="primary nav link" src="./primaryNavExample.png">
+
+- `Global and local navigation`
+- `Navigation Design for different user type`
+  - know how many user levels exits.
+  - design and plan for each level separately.
+  - Detail content difference for users.
+  - focus on context of use.
+
+#### `Validating your navigation scheme`
+
+- increase information scent
+- example somebody visiting your website.
+- `!!! most important question that every user should answer !!!`
+  - any time you get i don't know then you have navigation problem.
+- where am i?
+- how did i get here?
+- what can i do here?
+- where can i go from here?

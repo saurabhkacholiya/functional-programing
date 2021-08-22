@@ -145,7 +145,80 @@ Content labeling
 
 <img src="./fileNameExample.png" alt="fileName">
 
+- ### `File name should match IA category labels`
 - naming
 - modeling
-- ### `File name should match IA category labels`
+- Products/Books/Biographies/New Releases so file name will be -> https://mywebsite.com/products/books/biographies/2015/new-release.html
+
+Grouping and classifying content
+
+- chronological
+- alphabetical
+- geographical
+- most popular
+
+## `IA Specification priority`
+
+<img alt="IA specification example" src="./specificationExample.png" height="400px" >
+
+- ### `TOO MUCH INFORMATION KILLS`
+
+## `IA Specification Model`
+
+<img alt="IA specification" src="./specificationModel.png" height="400px" >
+
+### `The Five type of IA models (and which to use when)`
+
+#### `Hierarchical Tree`
+
+<img alt="hierarchical model" src="./hierarchicalExample.png"  height="400px">
+
+- Standard for content heavy website
+- provides multiple routes to user
+- link-heavy hard on smaller screen
+
+#### `Nested List Model`
+
+<img alt="Nested list model" src="./nestedListModel.png" height="400px">
+
+- user tap or swipe to reveal additional menus
+- great for small screen but difficult to browse laterally
+- help focus on content
+
+#### `Hub and spoke`
+
+<img alt="hub and spoke model" src="./hubAndSpoke.png"  height="400px">
+
+- Central screen hub acts as **launch pad**
+- Links points outwards to other section each **separated** from the other
+- Eliminates the need for global navigation on each screen best for **Task-based** site and apps.
+
+#### `Bento Box`
+
+<img alt="bento model" src="./bentoBoxModel.png"  height="400px">
+
+- dashboard style app pulls in dynamic components and information
+- most interaction occurs in the context of **single, multi-purpose screen**
+- useful when data aggregated from **multiple sources**
+
+#### `filter View`
+
+<img alt="bento model" src="./filteredViewModel.png"  height="400px">
+
+- Filtered view systems deal with a **single data set**
+- information can be explored from multiple views
+- variety of user-controlled **views and sorting options**
+
+#### `Combining IA`
+
+- yes IA can be Combined for different use cases like from Hierarchical and on login going to another app having hub spoke.
+- but don't combine IA mode in same app hierarchical.
+
+<img alt="combining IA model example" src="./combiningModelExample.png">
+
+## `Tools for creating IA models`
+
+#### `IA is really nothing more than an outline so any basic word processing software is fine.`
+
+- Microsoft words
 -

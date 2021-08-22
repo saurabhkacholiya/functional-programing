@@ -141,7 +141,7 @@ Content labeling
 
 ## `file naming`
 
-![fileNameExample]('../fileNameExample.png')
+<img src="./fileNameExample.png" alt="fileName">
 
 - naming
 - modeling
